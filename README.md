@@ -1,4 +1,7 @@
-### Hi there 👋
+# 🕹️ Dan Kotov
+
+**`Software Developer`**
+**`BSc: Computer Science @ Toronto Metropolitan (Ryerson) University`**
 
 <!--
 **dankotov/dankotov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
