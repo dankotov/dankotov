@@ -11,6 +11,8 @@
 
 <img src="/media/mappio/icon.svg" width="40" height="40" align="left" alt="FACEIT mappio logo"><h3 align="left" style="float: left;">Mappio</h3>
 
+######
+
 > Chrome extension for the FACEIT CSGO esports platform that displays everyone's map-related information in the match room letting you make more educated decisions during the veto process.
 
 <p>
