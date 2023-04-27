@@ -9,7 +9,7 @@
   </ul>
 </div>
 
-<img src="/media/mappio/icon.svg" width="40" height="40" align="left" alt="FACEIT mappio logo"><h3 align="left" style="float: left;">Mappio</h3>
+<img src="/media/mappio/icon.svg" width="40" height="40" align="left" alt="FACEIT mappio logo"><h3 align="left" style="float: left;">Mappio<img valign="middle" src="https://img.shields.io/chrome-web-store/rating/kaeamgghipbhkjgibgglnmmnobdakapa" align="right"><img valign="middle" src="https://img.shields.io/chrome-web-store/users/kaeamgghipbhkjgibgglnmmnobdakapa" align="right"></h3>
 
 ######
 
