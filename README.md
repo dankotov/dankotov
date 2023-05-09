@@ -13,7 +13,7 @@
 
 ######
 
-> Chrome extension for the FACEIT CSGO esports platform that displays everyone's map-related information in the match room letting you make more educated decisions during the veto process.
+> Browser extension for the FACEIT CSGO esports platform that displays everyone's map-related information in the match room letting you make more educated decisions during the veto process.
 
 <p>
   <img src="/media/technologies/chrome-extension.svg" width="30" height="30" align="right" alt="Chrome extension logo">
@@ -21,6 +21,6 @@
   <img src="/media/technologies/typescript.svg" width="30" height="30" align="right" alt="Typescript logo">
   <img src="/media/technologies/react.svg" width="30" height="30" align="right" alt="React logo">
 </p>
-<sub><a href="https://github.com/dankotov/faceit-mappio">[repo]</a></sub>&nbsp;&nbsp;&nbsp;<sub><a href="https://chrome.google.com/webstore/detail/faceit-mappio/kaeamgghipbhkjgibgglnmmnobdakapa">[chrome web store]</a></sub>&nbsp;&nbsp;&nbsp;<sub><a href="https://www.reddit.com/r/FACEITmappio/">[reddit]</a></sub>
+<sub><a href="https://github.com/dankotov/faceit-mappio">[repo]</a></sub>&nbsp;&nbsp;&nbsp;<sub><a href="https://chrome.google.com/webstore/detail/faceit-mappio/kaeamgghipbhkjgibgglnmmnobdakapa">[chrome]</a></sub>&nbsp;&nbsp;&nbsp;<sub><a href="https://addons.mozilla.org/addon/faceit-mappio/">[firefox]</a></sub>&nbsp;&nbsp;&nbsp;<sub><a href="https://www.reddit.com/r/FACEITmappio/">[reddit]</a></sub>
 
 <hr>
