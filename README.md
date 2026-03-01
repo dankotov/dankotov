@@ -29,11 +29,11 @@
 
 ```
 Extension: TS, React, Webpack
-Web: Svelte
-Match replays processing pipeline: Go, Rust
 ML service: Python
-Auth & Billing: AWS Lambda (TS), OAuth, JWT, Stripe
-Infra: self-host VM, Docker, GitHub Actions CI/CD, Route 53 geo-based DNS with regional proxies for throttled regions
+Match replays processing pipeline: Go, Rust
+Auth & Billing: AWS Lambda (TS), Redis, OAuth, JWT, Stripe
+Web: Svelte (TS)
+Infra: VPS, Docker, GH Actions CI/CD, Route53 geo-DNS (regional proxies for throttled ISPs)
 ```
 
 <p>
