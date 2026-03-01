@@ -36,12 +36,6 @@ Web: Svelte (TS)
 Infra: VPS, Docker, GH Actions CI/CD, Route53 geo-DNS (regional proxies for throttled ISPs)
 ```
 
-<p>
-  <img src="/media/technologies/chrome-extension.svg" width="30" height="30" align="right" alt="Chrome extension logo">
-  <img src="/media/technologies/webpack.svg" width="30" height="30" align="right" alt="Webpack logo">
-  <img src="/media/technologies/typescript.svg" width="30" height="30" align="right" alt="Typescript logo">
-  <img src="/media/technologies/react.svg" width="30" height="30" align="right" alt="React logo">
-</p>
-<sub><a href="https://github.com/dankotov/faceit-mappio">[repo]</a></sub>&nbsp;&nbsp;&nbsp;<sub><a href="https://chrome.google.com/webstore/detail/faceit-mappio/kaeamgghipbhkjgibgglnmmnobdakapa">[chrome]</a></sub>&nbsp;&nbsp;&nbsp;<sub><a href="https://addons.mozilla.org/addon/faceit-mappio/">[firefox]</a></sub>&nbsp;&nbsp;&nbsp;<sub><a href="https://www.reddit.com/r/FACEITmappio/">[reddit]</a></sub>
+<sub><a href="https://chrome.google.com/webstore/detail/faceit-mappio/kaeamgghipbhkjgibgglnmmnobdakapa">[chrome]</a></sub>&nbsp;&nbsp;&nbsp;<sub><a href="https://addons.mozilla.org/addon/faceit-mappio/">[firefox]</a></sub>&nbsp;&nbsp;&nbsp;<sub><a href="https://www.mappio.pro/">[web]</a></sub>
 
 <hr>
