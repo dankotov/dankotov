@@ -15,7 +15,7 @@
 
 > Browser extension for the FACEIT CS2 competitive platform that turns opponent data into a tactical advantage - combining real-time stats, behavioral predictions, and ML-powered analytics to help players make smarter decisions in every match.
 
-<h4>Key Features</h4>
+**Key Features**
 
 ```
 ‣ probabilistic ban predictions from historical veto analysis of the opposing captain
@@ -25,7 +25,7 @@
 ‣ suite of real-time in-browser player and team performance analytics
 ```
 
-<h4>Architecture</h4>
+**Architecture**
 
 ```
 Extension: TS, React, Webpack
