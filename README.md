@@ -16,23 +16,25 @@
 > Browser extension for the FACEIT CS2 competitive platform that turns opponent data into a tactical advantage - combining real-time stats, behavioral predictions, and ML-powered analytics to help players make smarter decisions in every match.
 
 <h4>Key Features</h4>
-<ul>
-<li>probabilistic ban predictions from historical veto analysis of the opposing captain</li>
-<li>per-map win probability via ML classification</li>
-<li>post-veto opponent position heatmaps aggregated from parsed match replays</li>
-<li>player in-game-role classification derived from population-normalized stat profiles</li>
-<li>suite of real-time in-browser player and team performance analytics</li>
-</ul>
+
+```
+‣ probabilistic ban predictions from historical veto analysis of the opposing captain
+‣ per-map win probability via ML classification
+‣ post-veto opponent position heatmaps aggregated from parsed match replays
+‣ player in-game-role classification derived from population-normalized stat profiles
+‣ suite of real-time in-browser player and team performance analytics
+```
 
 <h4>Architecture</h4>
-<ul>
-<li>**Extension**: TS, React, Webpack</li>
-<li>**Web**: Svelte</li>
-<li>**Match replays processing pipeline**: Go, Rust</li>
-<li>**ML service**: Python</li>
-<li>**Auth & Billing**: AWS Lambda (TS), OAuth, JWT, Stripe</li>
-<li>**Infra**: self-host VM, Docker, GitHub Actions CI/CD, Route 53 geo-based DNS with regional proxies for throttled regions</li>
-</ul>
+
+```
+Extension: TS, React, Webpack
+Web: Svelte
+Match replays processing pipeline: Go, Rust
+ML service: Python
+Auth & Billing: AWS Lambda (TS), OAuth, JWT, Stripe
+Infra: self-host VM, Docker, GitHub Actions CI/CD, Route 53 geo-based DNS with regional proxies for throttled regions
+```
 
 <p>
   <img src="/media/technologies/chrome-extension.svg" width="30" height="30" align="right" alt="Chrome extension logo">
