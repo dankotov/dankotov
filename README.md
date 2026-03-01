@@ -15,6 +15,15 @@
 
 > Browser extension for the FACEIT CS2 competitive platform that turns opponent data into a tactical advantage - combining real-time stats, behavioral predictions, and ML-powered analytics to help players make smarter decisions in every match.
 
+<h4>Key Features</h4>
+<ul>
+<li>probabilistic ban predictions from historical veto analysis of the opposing captain</li>
+<li>per-map win probability via ML classification</li>
+<li>post-veto opponent position heatmaps aggregated from parsed match replays</li>
+<li>player in-game-role classification derived from population-normalized stat profiles</li>
+<li>suite of real-time in-browser player and team performance analytics</li>
+</ul>
+
 <p>
   <img src="/media/technologies/chrome-extension.svg" width="30" height="30" align="right" alt="Chrome extension logo">
   <img src="/media/technologies/webpack.svg" width="30" height="30" align="right" alt="Webpack logo">
