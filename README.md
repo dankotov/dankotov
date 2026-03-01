@@ -1,6 +1,6 @@
 # 🕹️ Dan Kotov
 
-**`Software Developer`**
+**`Software Engineer`**
 **`BSc: Computer Science @ Toronto Metropolitan (Ryerson) University`**
 
 <div id="user-content-toc">
@@ -13,14 +13,29 @@
 
 ######
 
-> Browser extension for the FACEIT CSGO esports platform that displays everyone's map-related information in the match room letting you make more educated decisions during the veto process.
+> Browser extension for the FACEIT CS2 competitive platform that turns opponent data into a tactical advantage - combining real-time stats, behavioral predictions, and ML-powered analytics to help players make smarter decisions in every match.
 
-<p>
-  <img src="/media/technologies/chrome-extension.svg" width="30" height="30" align="right" alt="Chrome extension logo">
-  <img src="/media/technologies/webpack.svg" width="30" height="30" align="right" alt="Webpack logo">
-  <img src="/media/technologies/typescript.svg" width="30" height="30" align="right" alt="Typescript logo">
-  <img src="/media/technologies/react.svg" width="30" height="30" align="right" alt="React logo">
-</p>
-<sub><a href="https://github.com/dankotov/faceit-mappio">[repo]</a></sub>&nbsp;&nbsp;&nbsp;<sub><a href="https://chrome.google.com/webstore/detail/faceit-mappio/kaeamgghipbhkjgibgglnmmnobdakapa">[chrome]</a></sub>&nbsp;&nbsp;&nbsp;<sub><a href="https://addons.mozilla.org/addon/faceit-mappio/">[firefox]</a></sub>&nbsp;&nbsp;&nbsp;<sub><a href="https://www.reddit.com/r/FACEITmappio/">[reddit]</a></sub>
+<h4>Key Features</h4>
+
+```
+‣ probabilistic ban predictions from historical veto analysis of the opposing captain
+‣ per-map win probability via ML classification
+‣ post-veto opponent position heatmaps aggregated from parsed match replays
+‣ player in-game-role classification derived from population-normalized stat profiles
+‣ suite of real-time in-browser player and team performance analytics
+```
+
+<h4>Architecture</h4>
+
+```
+Extension: TS, React, Webpack
+ML service: Python
+Match replays processing pipeline: Go, Rust
+Auth & Billing: AWS Lambda (TS), Redis, OAuth, JWT, Stripe
+Web: Svelte (TS)
+Infra: VPS, Docker, GH Actions CI/CD, Route53 geo-DNS (regional proxies for throttled ISPs)
+```
+
+<sub><a href="https://chrome.google.com/webstore/detail/faceit-mappio/kaeamgghipbhkjgibgglnmmnobdakapa">[chrome]</a></sub>&nbsp;&nbsp;&nbsp;<sub><a href="https://addons.mozilla.org/addon/faceit-mappio/">[firefox]</a></sub>&nbsp;&nbsp;&nbsp;<sub><a href="https://www.mappio.pro/">[web]</a></sub>
 
 <hr>
