@@ -24,6 +24,16 @@
 <li>suite of real-time in-browser player and team performance analytics</li>
 </ul>
 
+<h4>Architecture</h4>
+<ul>
+<li>**Extension**: TS, React, Webpack</li>
+<li>**Web**: Svelte</li>
+<li>**Match replays processing pipeline**: Go, Rust</li>
+<li>**ML service**: Python</li>
+<li>**Auth & Billing**: AWS Lambda (TS), OAuth, JWT, Stripe</li>
+<li>**Infra**: self-host VM, Docker, GitHub Actions CI/CD, Route 53 geo-based DNS with regional proxies for throttled regions</li>
+</ul>
+
 <p>
   <img src="/media/technologies/chrome-extension.svg" width="30" height="30" align="right" alt="Chrome extension logo">
   <img src="/media/technologies/webpack.svg" width="30" height="30" align="right" alt="Webpack logo">
