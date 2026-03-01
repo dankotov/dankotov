@@ -1,6 +1,6 @@
 # 🕹️ Dan Kotov
 
-**`Software Developer`**
+**`Software Engineer`**
 **`BSc: Computer Science @ Toronto Metropolitan (Ryerson) University`**
 
 <div id="user-content-toc">
