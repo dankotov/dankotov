@@ -29,7 +29,7 @@
 
 ```
 Extension: TS, React, Webpack
-ML service: Python
+ML service: Python, Go
 Match replays processing pipeline: Go, Rust
 Auth & Billing: AWS Lambda (TS), Redis, OAuth, JWT, Stripe
 Web: Svelte (TS)
