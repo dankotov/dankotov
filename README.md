@@ -39,3 +39,8 @@ Infra: VPS, Docker, GH Actions CI/CD, Route53 geo-DNS (regional proxies for thro
 <sub><a href="https://chrome.google.com/webstore/detail/faceit-mappio/kaeamgghipbhkjgibgglnmmnobdakapa">[chrome]</a></sub>&nbsp;&nbsp;&nbsp;<sub><a href="https://addons.mozilla.org/addon/faceit-mappio/">[firefox]</a></sub>&nbsp;&nbsp;&nbsp;<sub><a href="https://www.mappio.pro/">[web]</a></sub>
 
 <hr>
+<img src="/media/jumpthrow/icon.svg" width="40" height="40" align="left" alt="Jumpthrow logo"><h3 align="left" style="float: left;">Jumpthrow<img valign="middle" src="https://img.shields.io/chrome-web-store/rating/kaeamgghipbhkjgibgglnmmnobdakapa" align="right"><img valign="middle" src="https://img.shields.io/chrome-web-store/users/kaeamgghipbhkjgibgglnmmnobdakapa" align="right"></h3>
+
+######
+
+> Website for CS2 players that continuously parses official match replays to build and maintain a searchable library of professional greande lineups - each automatically extracted, categorized and captured as a video guide for players to replicate.
